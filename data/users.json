@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mr. X",
+    "phone": "123-456-7890",
+    "email": "x@yieldmo.com"
+  },
+  {
+    "name": "Ms. Y",
+    "phone": "456-789-1234",
+    "email": "y@yieldmo.com"
+  },
+  {
+    "name": "Mr. X1",
+    "phone": "123-456-7890",
+    "email": "x@gmail.com"
+  },
+  {
+    "name": "Ms. Y1",
+    "phone": "456-789-9999",
+    "email": "y@yieldmo.com"
+  }
+]
